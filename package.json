@@ -28,7 +28,7 @@
     "@types/express": "^4.17.6",
     "@types/helmet": "0.0.45",
     "@types/jest": "^25.2.1",
-    "@types/jsonwebtoken": "^8.3.9",
+    "@types/jsonwebtoken": "^8.5.0",
     "@types/mongoose": "^5.7.10",
     "@types/node": "^13.11.1",
     "jest": "^25.3.0",
